@@ -1,6 +1,9 @@
 package tripplanner.driver;
 
+import tripplanner.gui.TripPlannerGUI;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Final Project Works in Progress");
+        new TripPlannerGUI();
     }
+}
