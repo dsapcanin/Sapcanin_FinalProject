@@ -1,3 +1,8 @@
+// Name: Dalila Sapcanin
+// Course: CIS171
+// Assignment: Final Project - European Trip Planner
+// Date: May 2026
+
 package tripplanner.driver;
 
 import tripplanner.gui.TripPlannerGUI;
